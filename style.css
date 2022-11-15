@@ -1,12 +1,26 @@
-.body( 
-     font-family: 'Fjalla One', sans-serif;)
-   h1{
-color: rgba(137, 43, 226, 0.521);
+.body{
+    font-family: 'Fjalla One', sans-serif;
+}
+d{
+    font-size: 35px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+color: indigo(137, 43, 226, 0.521);
 }
 .bobr{
     text-align: center;
+    font-size: 40px;
 }
 .kjh{
-    width: 690px;
-margin-left: 650px;
+    width: 480px;
+margin-left: 260px;
 margin-right: 200px;
+}
+.aaa{
+    width: 700px;
+    margin-left: 400px;
+}
